@@ -1,16 +1,81 @@
-## Hi there 👋
+# 🐰🎲 Sol Coelho
 
-<!--
-**solcoelho/solcoelho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Analista de Dados`**
 
-Here are some ideas to get you started:
+Olá! Eu sou o Sol Coelho, uma pessoa trans não binária **(ele/dele)** de 36 anos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Graduado em **Administração de Empresas**, tenho mais de 10 anos de experiência em marketing digital com forte ênfase em **análise de performance e business inteligence**. Sou apaixonado por descobrir padrões, tendências e oportunidades nos dados, o que impulsionou minhas habilidades com ferramentas como **Looker Studio e Power BI** para extrair insights valiosos de grandes conjuntos de dados.
+
+Atualmente, estou em uma jornada de transição para me tornar um Analista de Dados, aprimorando minhas habilidades técnicas e conhecimento de negócios. 
+
+📖 **Estudando no momento**: Python e SQL.
+
+
+<p align="left">
+        <a href="https://github.com/solcoelho?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/solcoelho?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/solcoelho?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/solcoelho?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+    </a>
+    <a href="https://www.linkedin.com/feed/">
+        <img 
+            alt="LinkedIn" 
+            title="Conecte-se comigo" 
+            src="https://custom-icon-badges.demolab.com/badge/-solcoelho-blue?style=for-the-badge&logo=mention&logoColor=white"
+        />
+    </a>
+</p>
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
+
+<img 
+    align="left" 
+    alt="TypeScript"
+    title="TypeScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
+
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=solcoelho&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+</p>
