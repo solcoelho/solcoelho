@@ -45,7 +45,7 @@ Atualmente, estou em uma jornada de transição para me tornar um Analista de Da
     alt="HTML"
     title="HTML" 
     width="50px" 
-    style="padding-right: 10px;"
+    style="padding-right: 20px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
 
 <img 
@@ -53,7 +53,7 @@ Atualmente, estou em uma jornada de transição para me tornar um Analista de Da
     alt="JavaScript" 
     title="JavaScript"
     width="50px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
 
 <img 
@@ -61,9 +61,8 @@ Atualmente, estou em uma jornada de transição para me tornar um Analista de Da
     alt="TypeScript"
     title="TypeScript" 
     width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-line.svg" />
-          " />
+    style="padding-right: 20px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
 
 <br/>
 <br/>
