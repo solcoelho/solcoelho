@@ -27,7 +27,7 @@ Atualmente, estou em uma jornada de transição para me tornar um Analista de Da
         />
     </a>
     </a>
-    <a href="https://www.linkedin.com/feed/">
+    <a href="[https://www.linkedin.com/feed/](https://www.linkedin.com/in/solcoelho/)">
         <img 
             alt="LinkedIn" 
             title="Conecte-se comigo" 
