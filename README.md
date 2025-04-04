@@ -44,7 +44,7 @@ Atualmente, estou em uma jornada de transição para me tornar um Analista de Da
     align="left" 
     alt="HTML"
     title="HTML" 
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
 
@@ -52,7 +52,7 @@ Atualmente, estou em uma jornada de transição para me tornar um Analista de Da
     align="left" 
     alt="JavaScript" 
     title="JavaScript"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
 
@@ -60,7 +60,7 @@ Atualmente, estou em uma jornada de transição para me tornar um Analista de Da
     align="left" 
     alt="TypeScript"
     title="TypeScript" 
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
 
