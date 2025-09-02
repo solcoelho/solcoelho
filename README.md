@@ -42,24 +42,24 @@ Atualmente, estou em uma jornada de transição para me tornar um Analista de Da
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="Python"
+    title="Python" 
     width="50px" 
     style="padding-right: 20px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
 
 <img 
     align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
+    alt="Pandas" 
+    title="Pandas"
     width="50px" 
     style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
 
 <img 
     align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
+    alt="SQL Server"
+    title="SQL Server" 
     width="50px" 
     style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
