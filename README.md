@@ -4,9 +4,9 @@
 
 Olá! Eu sou o Sol Coelho, uma pessoa trans não binária **(ele/dele)** de 36 anos.
 
-Graduado em **Administração de Empresas**, tenho mais de 10 anos de experiência em marketing digital com forte ênfase em **análise de performance e business inteligence**. Sou apaixonado por descobrir padrões, tendências e oportunidades nos dados, o que impulsionou minhas habilidades com ferramentas como **Looker Studio e Power BI** para extrair insights valiosos de grandes conjuntos de dados.
+Pós-graduando em **Data Science e Anlytics** pela **USP/Esalq**, tenho mais de 10 anos de experiência em marketing digital com forte ênfase em **análise de performance e business inteligence**. Sou apaixonado por descobrir padrões, tendências e oportunidades nos dados, o que impulsionou minhas habilidades com ferramentas como **Looker Studio e Power BI** para extrair insights valiosos de grandes conjuntos de dados.
 
-Atualmente, estou em uma jornada de transição para me tornar um Analista de Dados, aprimorando minhas habilidades técnicas e conhecimento de negócios. 
+Atualmente, estou em uma jornada de transição para me tornar um Cientista de Dados, aprimorando minhas habilidades técnicas e conhecimento de negócios. 
 
 📖 **Estudando no momento**: Python e SQL.
 
